@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Shai</h1>
 
 <p align="center">
-  Dev (sometimes) 💻 | Illustrator 🎨 | Music enthusiast 🎶<br />
+  Developer 💻 <br/>
+  Illustrator 🎨 <br/>
+  Musician 🎶 <br/>
   Based in Maldives 🏝️
 </p>
 
@@ -28,8 +30,8 @@
 
 🎥 Video Editing <br/>  
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/capcut.png" alt="CapCut" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinci/davinci-original.svg" alt="DaVinci Resolve" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/CapCut_Logo.png" alt="CapCut Logo" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve Logo" width="40" height="40"/>
 </p>
 
 🎨 Illustrations <br/>  
@@ -56,8 +58,16 @@
 ### ✨ Get in touch
 
 <p align="center">
-  <a href="https://instagram.com/shaisalym"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new--v1.png" width="30"/></a>
-  <a href="https://linkedin.com/in/shaisalym"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
-  <a href="mailto:shaisalym@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" width="30"/></a>
-  <a href="https://shaisalym.xyz"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="30"/></a>
+  <a href="https://instagram.com/shaisalym">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="30"/>
+  </a>
+  <a href="https://linkedin.com/in/shaisalym">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/>
+  </a>
+  <a href="mailto:shaisalym@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30"/>
+  </a>
+  <a href="https://shaisalym.xyz">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-personal-portfolio-tal-revivo-color-tal-revivo.png" alt="Portfolio" width="30"/>
+  </a>
 </p>
