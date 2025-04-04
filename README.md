@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shai</h1>
 
 <p align="center">
-  Just a dev (sometimes) 💻 I also do graphic design and illustrations 🎨 <br />
-  HMU if you wanna write a song cause I do music too 🎶 <br />
+  Dev (sometimes) 💻 | Illustrator 🎨 | Music enthusiast 🎶<br />
   Based in Maldives 🏝️
 </p>
 
@@ -16,30 +15,39 @@
 
 ### 🛠️ Languages, Softwares and Tools
 
-💻 Development
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+💻 Development <br/> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-🎥 Video Editing
-![CapCut](https://img.shields.io/badge/-CapCut-333333?style=flat&logo=capcut)
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-333333?style=flat&logo=daVinci-resolve)
+🎥 Video Editing <br/>  
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/capcut.png" alt="CapCut" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinci/davinci-original.svg" alt="DaVinci Resolve" width="40" height="40"/>
+</p>
 
-🎨 Illustrations
-![Procreate](https://img.shields.io/badge/-Procreate-333333?style=flat&logo=procreate)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+🎨 Illustrations <br/>  
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/procreate.png" alt="Procreate" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+</p>
 
 
 ---
 
-### 📊 Some Stats (not much to show here)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaisalym&show_icons=true&theme=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaisalym&layout=compact&theme=shadow_blue)
+### 📊 Github Stats (not much to show here)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaisalym&show_icons=true&theme=shadow_blue" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaisalym&layout=compact&theme=shadow_blue" height="150"/>
+</p>
 
 
 ---
@@ -47,7 +55,9 @@
 
 ### ✨ Get in touch
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shaisalym)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaisalym)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaisalym@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://shaisalym.xyz)
+<p align="center">
+  <a href="https://instagram.com/shaisalym"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new--v1.png" width="30"/></a>
+  <a href="https://linkedin.com/in/shaisalym"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
+  <a href="mailto:shaisalym@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" width="30"/></a>
+  <a href="https://shaisalym.xyz"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="30"/></a>
+</p>
