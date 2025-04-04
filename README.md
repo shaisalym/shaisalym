@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.gif" alt="banner" />
+</p>
 
-<!--
-**shaisalym/shaisalym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Shai</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Just a dev, sometimes. I do graphic design / illustrations too. <br />
+  HMU if you wanna write a song cause I do music too <br />
+  Maldives-based. Sunny side of life. It's mid.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stuff
+
+- 💻 HTML/CSS
+- 🛠️ Python, maybe a bit of PHP if I'm in the mood
+
+---
+
+### 📊 Some Stats (for the street cred)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaisalym&show_icons=true&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaisalym&layout=compact&theme=shadow_blue)
+
+
+---
+
+### 📫 How to find me:
+
+- ✉️ Email: shaisalym@gmail.com
+- 🌐 Portfolio: [shaisalym.xyz]
