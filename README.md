@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 Some Stats (for the street cred)
+### 📊 Some Stats (not much to show here)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaisalym&show_icons=true&theme=shadow_blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaisalym&layout=compact&theme=shadow_blue)
@@ -30,4 +30,4 @@
 ### 📫 How to find me:
 
 - ✉️ Email: shaisalym@gmail.com
-- 🌐 Portfolio: [shaisalym.xyz]
+- 🌐 Portfolio: shaisalym.xyz
